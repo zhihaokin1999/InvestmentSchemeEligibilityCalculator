@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
                 txtInvestment.text=Investment.toString()
             }
 
-
+//
 
             txtAge.text=age.toString()
         }
