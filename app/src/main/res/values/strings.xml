@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InvestmentSchemeEligibilityCalculator</string>
+    <string name="SelectDOB">SelectDOB</string>
+    <string name="Age">Age</string>
+    <string name="minBasicSaving">minBasicSaving</string>
+    <string name="Investment">Investment:</string>
+    <string name="btnOk">OK</string>
+    <string name="btnReset">Reset</string>
+</resources>
